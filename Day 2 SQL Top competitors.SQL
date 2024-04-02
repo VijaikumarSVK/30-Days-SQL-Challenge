@@ -1,3 +1,6 @@
+--  you can find the question in this link: https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true
+
+-- Solution
 SELECT 
   A.hacker_id, 
   B.name 
